@@ -2,7 +2,7 @@
 
 [English](#english) · [简体中文](#简体中文) · [繁體中文](#繁體中文) · [日本語](#日本語)
 
-Last updated: October 19, 2026 · Contact: sublueai@gmail.com
+Last updated: October 30, 2026 · Contact: techinfor404@gmail.com
 
 ---
 
@@ -27,9 +27,11 @@ UnitCtrl (统一控制) lets the Android devices in your home be seen and contro
 - *Notifications, run in the background, start at boot*: to keep waiting for your devices and to ask you when one wants to connect.
 - No camera, no microphone, no location, no contacts.
 
+**Ratings**: if Google Play shows its own rating card, Google Play handles it; UnitCtrl never sees your rating or what you write, and sends nothing about it.
+
 **Children**: UnitCtrl isn't directed at children.
 
-**Changes**: this page will say when it changes. Questions: sublueai@gmail.com
+**Changes**: this page will say when it changes. Questions: techinfor404@gmail.com
 
 ---
 
@@ -54,9 +56,11 @@ UnitCtrl (统一控制) lets the Android devices in your home be seen and contro
 - *通知、后台运行、开机启动*：一直等着你的设备，有设备要连时问你。
 - 不用摄像头、麦克风、位置、通讯录。
 
+**评分**：如果 Google Play 弹出它自己的评分卡片，评分由 Google Play 处理，统一控制看不到你的评分和你写的内容，也不会为此发送任何东西。
+
 **儿童**：统一控制不是面向儿童的。
 
-**变更**：本页有改动时会注明。有问题请写信到 sublueai@gmail.com
+**变更**：本页有改动时会注明。有问题请写信到 techinfor404@gmail.com
 
 ---
 
@@ -81,9 +85,11 @@ UnitCtrl (统一控制) lets the Android devices in your home be seen and contro
 - *通知、背景執行、開機啟動*：一直等著你的裝置，有裝置要連線時詢問你。
 - 不用相機、麥克風、位置、聯絡人。
 
+**評分**：如果 Google Play 彈出它自己的評分卡片，評分由 Google Play 處理，統一控制看不到你的評分和你寫的內容，也不會為此傳送任何東西。
+
 **兒童**：統一控制不是以兒童為對象。
 
-**變更**：本頁有改動時會註明。有問題請寫信到 sublueai@gmail.com
+**變更**：本頁有改動時會註明。有問題請寫信到 techinfor404@gmail.com
 
 ---
 
@@ -108,6 +114,8 @@ UnitCtrl（统一控制）は、家の Android 端末を、家のネットワー
 - *通知、バックグラウンド実行、起動時に開始*：端末からの接続を待ち、接続しようとする端末があれば確認するため。
 - カメラ、マイク、位置情報、連絡先は使いません。
 
+**評価**：Google Play が独自の評価カードを表示した場合、評価は Google Play が処理します。UnitCtrl はあなたの評価や書いた内容を見ることはなく、それに関することを何も送信しません。
+
 **お子様**：UnitCtrl はお子様向けではありません。
 
-**変更**：変更した場合はこのページに記載します。お問い合わせ：sublueai@gmail.com
+**変更**：変更した場合はこのページに記載します。お問い合わせ：techinfor404@gmail.com
